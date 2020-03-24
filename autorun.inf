@@ -1,0 +1,7 @@
+; Script by SparrOSDeveloperTeam
+; https://github.com/SparrOSDeveloperTeam
+
+[Autorun]
+open=autorun.exe
+icon=autorun.exe
+label=PJGDVD-0.0.0.6
